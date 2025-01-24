@@ -13,7 +13,7 @@
     <body bgcolor="dracula">          
 	    <h2>Human Resources</h2>
         <div class="container">
-            <h2>List of Employees</h2>
+            <h2>List of Employees that have been employed</h2>
             <!--Search Form -->
             <form action="employee" method="get" id="seachEmployeeForm" role="form">
                 <input type="hidden" id="searchAction" name="searchAction" value="searchByName">
